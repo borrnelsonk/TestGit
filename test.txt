@@ -1,1 +1,2 @@
 This is my first text file on Git.
+1.I have amde some changes to my file at 10 am
